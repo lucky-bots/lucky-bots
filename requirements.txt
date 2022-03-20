@@ -8,3 +8,4 @@ googletrans
 geopy
 xlrd
 cython
+openpyxl
